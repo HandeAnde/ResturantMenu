@@ -1,0 +1,11 @@
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\bin\Debug\netcoreapp2.1\ResturantMenu.deps.json
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\bin\Debug\netcoreapp2.1\ResturantMenu.runtimeconfig.json
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\bin\Debug\netcoreapp2.1\ResturantMenu.runtimeconfig.dev.json
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\bin\Debug\netcoreapp2.1\ResturantMenu.dll
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\bin\Debug\netcoreapp2.1\ResturantMenu.pdb
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\obj\Debug\netcoreapp2.1\ResturantMenu.csprojAssemblyReference.cache
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\obj\Debug\netcoreapp2.1\ResturantMenu.csproj.CoreCompileInputs.cache
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\obj\Debug\netcoreapp2.1\ResturantMenu.AssemblyInfoInputs.cache
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\obj\Debug\netcoreapp2.1\ResturantMenu.AssemblyInfo.cs
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\obj\Debug\netcoreapp2.1\ResturantMenu.dll
+C:\Users\courtney\Desktop\LC101\CSharp\ResturnatMenu\ResturantMenu\ResturantMenu\obj\Debug\netcoreapp2.1\ResturantMenu.pdb
